@@ -1,1 +1,1 @@
-Pascal triangle problem solved using Python
+# The pascals triangle in python.
